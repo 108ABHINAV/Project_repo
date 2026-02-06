@@ -139,15 +139,5 @@ The analysis identifies:
 - Future crime rate predictions with confidence intervals
 - High-risk periods and locations
 
-## 📝 License
-
-This project is for educational and research purposes.
-
-## 👨‍💻 Author
-
-**Duration**: 3 Months  
-**Platform**: Python
-
 ---
 
-Built with ❤️ for safer cities
